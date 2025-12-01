@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 
 show_downloads: false
-logo : /assets/ProfilePicture.png
+logo : /assets/img/ProfilePicture.png
