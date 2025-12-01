@@ -1,6 +1,3 @@
-
-![GitHub Sponsors](https://img.shields.io/github/sponsors/chramostatm)
-
 ## About
 Trenton is a Cybersecurity professional with a focus in Development Security (DevSec) and Cloud Security (CloudSec).
 
