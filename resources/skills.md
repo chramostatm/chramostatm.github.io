@@ -4,7 +4,15 @@
 - Email Security
     - M365 Exchange Administraton
     - ProofPoint Administration
-- Biomedical Device Security
+- Biomedical Informatics
     - Claroty xDome (AKA: Medigate)
+
+- Legal knowledge
+    - Litigation Holds
+        - Microsoft Purview
 - SecOps
+    - Forensics
+        - Autopsy
+        - FTK imager
+        
 - DevSecOps
