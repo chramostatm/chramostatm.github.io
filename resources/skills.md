@@ -1,4 +1,10 @@
 - Cloud Security
+    - AWS
+    - M365/Azure
 - Email Security
+    - M365 Exchange Administraton
+    - ProofPoint Administration
+- Biomedical Device Security
+    - Claroty xDome (formerly Medigate)
 - SecOps
 - DevSecOps
