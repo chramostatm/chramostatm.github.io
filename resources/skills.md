@@ -5,6 +5,6 @@
     - M365 Exchange Administraton
     - ProofPoint Administration
 - Biomedical Device Security
-    - Claroty xDome (formerly Medigate)
+    - Claroty xDome (AKA: Medigate)
 - SecOps
 - DevSecOps
