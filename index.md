@@ -1,6 +1,8 @@
 ## About
 Trenton is a Cybersecurity professional with a focus in Development Security (DevSec) and Cloud Security (CloudSec).
 
+[ORCID](https://orcid.org/0009-0007-0514-1864)
+
 [Skills](./resources/skills.md)
 
 
