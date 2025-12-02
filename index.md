@@ -3,6 +3,8 @@ Trenton is a Cybersecurity professional with a focus in Development Security (De
 
 [Skills](./resources/skills.md)
 
+[QR Codes](./resources/QR.md)
+
 ## Services
 [DVD Transcoding](./services/MKVTranscoding.md)
 
