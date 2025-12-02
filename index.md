@@ -5,7 +5,7 @@ Trenton is a Cybersecurity professional with a focus in Development Security (De
 ### [ORCID iD](https://orcid.org/0009-0007-0514-1864)
 ![ORCID iD](./assets/img/ORCID.png)
 ### [LinkedIn](https://www.linkedin.com/in/trenton-chramosta-50642b1b0/)
-
+![LinkedIn](./assets/img/LinkedIn.png)
 
 
 ## Services
