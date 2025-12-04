@@ -8,7 +8,7 @@
     - Claroty xDome (AKA: Medigate)
 
 - Legal knowledge
-    - Litigation Holds
+    - Litigation Holds and eDiscovery
         - Microsoft Purview
 - SecOps
     - Forensics
